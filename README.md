@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://github.com/crispoh/Astro-Portfolio/assets/57739880/47407363-1376-4d4a-afc3-515ca854024c"  />
-</div>
+![PERFIL](https://github.com/crispoh/Astro-Portfolio/assets/57739880/47407363-1376-4d4a-afc3-515ca854024c)
 
 ###
 
